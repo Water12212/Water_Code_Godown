@@ -1,0 +1,10 @@
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\bin\Release\Stylized Astronaut_ServerTest.exe.config
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\bin\Release\Stylized Astronaut_ServerTest.exe
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\bin\Release\Stylized Astronaut_ServerTest.pdb
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\obj\Release\Stylized Astronaut_ServerTest.csproj.AssemblyReference.cache
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\obj\Release\Stylized Astronaut_ServerTest.csproj.CoreCompileInputs.cache
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\obj\Release\Stylized.7E898FB0.Up2Date
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\obj\Release\Stylized Astronaut_ServerTest.exe
+C:\Users\12811\source\repos\Stylized Astronaut_ServerTest\Stylized Astronaut_ServerTest\obj\Release\Stylized Astronaut_ServerTest.pdb
