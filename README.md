@@ -7,6 +7,8 @@ Stylized Astronaut_ServerTest的Bin里也有程序的Release版本也可以直�
 在GitHub中我未上传Unity的全部文件（比如地图，角色预制体等），这可能对你的上手有一定的门槛，但是相信我，等你学成归来，这些或许依旧能帮助到你！
 如果你想联系我，可以发送邮箱给：1281132008@qq.com 或者在Github里面发起新的话题！   By Water  Good Luck！
 
+Bili： https://www.bilibili.com/video/BV1Hsi6Y1EW7/?share_source=copy_web&vd_source=69e34de0f892d82c28d9682b9175f252
+
 This is a Unity + Socket multiplayer solution that I learned by myself. If it is useful for your learning, then I am very happy.
 Among them, the NetManager.cs needs to be mounted on an empty object, which is the core script of the client, including methods such as sending the player's position information to the server and updating the player information of other clients.
 The Stylized Astronaut_ServerTest folder is the engineering file of Vs, and the Program.cs is the core script of the server.
@@ -15,3 +17,5 @@ There is also a Release version of the program in the Bin of Stylized Astronaut_
 The server does not add exception handling for user connection and disconnection, which is also the reason why this is a learning demo. If you are interested, you can complete this for it, and of course, I will also complete it in the near future.
 In GitHub, I did not upload all the files of Unity (such as maps, character prefabs, etc.), which may have a certain threshold for your getting started, but believe me, when you return after learning, these may still be able to help you!
 If you want to contact me, you can send an email to: 1281132008@qq.com or initiate a new topic in Github!      By Water  Good Luck！
+
+Bili： https://www.bilibili.com/video/BV1Hsi6Y1EW7/?share_source=copy_web&vd_source=69e34de0f892d82c28d9682b9175f252
